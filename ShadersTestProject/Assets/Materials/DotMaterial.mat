@@ -40,6 +40,8 @@ Material:
     m_Floats:
     - _Dot_Size: 3
     - _Dot_Space: 2
+    - _EmisionStrength: 20
+    - _Float: 100
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
